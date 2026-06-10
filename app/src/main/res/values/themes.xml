@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HarclikTakibi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorSecondary">@color/orange_light</item>
+    </style>
+
+
+    <style name="Theme.HarclikTakibi" parent="Base.Theme.HarclikTakibi" />
+</resources>
