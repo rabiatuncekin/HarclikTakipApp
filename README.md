@@ -26,17 +26,6 @@ HarclikTakibi is an Android application developed with Java that helps users man
 - XAMPP
 - JSON
 
-## 📊 Screenshots
-
-### Login Screen
-<img width="250" alt="Login Screen" src="YOUR_SCREENSHOT_LINK">
-
-### Dashboard
-<img width="250" alt="Dashboard" src="YOUR_SCREENSHOT_LINK">
-
-### Profile Screen
-<img width="250" alt="Profile Screen" src="YOUR_SCREENSHOT_LINK">
-
 ## 📂 Project Structure
 
 ```
@@ -54,7 +43,7 @@ HarclikTakibi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/HarclikTakibi.git
+git clone https://github.com/rabiatuncekin/HarclikTakipApp.git
 ```
 
 2. Open the project in Android Studio.
